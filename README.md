@@ -4,13 +4,17 @@
 ## Script Functionality
 
 ### 01. User input   
-The script prompts the user for the following information:   
-   * Path to the CSV file.   
-   * Desired output filename (including the .xlsx extension).   
-   * Title for the line chart.
+* The script prompts the user for the following information:   
+   ** Path to the CSV file.   
+   ** Desired output filename (including the .xlsx extension).   
+   ** Title for the line chart.
 
 ### 02. Data Reading   
-The script uses the _Pandas_ library to read the data from the specified CSV file.
+* The script uses the _Pandas_ library to read the data from the specified CSV file.   
+
+### 03. Workbook and Sheet Creation
+* A new Excel workbook is created using the _Openpyxl library_.   
+* A worksheet is created as the active sheet in the workbook.
 
 ## Steps to run the script?
 

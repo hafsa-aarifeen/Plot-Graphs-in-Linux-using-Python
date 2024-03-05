@@ -3,9 +3,9 @@
 
 ## Steps to run the script?
 
-### Install the necessary Python libraries
+### 01. Install the necessary Python libraries
 First, need to install the necessary libraries to run the script in the Linux environment.
 
-_01. sudo apt update
-02. sudo apt install python3-pip
-03. pip install pandas openpyxl_
+_01. sudo apt update   
+02. sudo apt install python3-pip   
+03. pip install pandas openpyxl_   

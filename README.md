@@ -3,7 +3,7 @@
 
 ## Steps to run the script?
 
-# Install the necessary Python libraries
+### Install the necessary Python libraries
 First, need to install the necessary libraries to run the script in the Linux environment.
 
 _01. sudo apt update

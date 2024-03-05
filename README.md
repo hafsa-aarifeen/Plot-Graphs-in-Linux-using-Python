@@ -6,6 +6,13 @@
 ### 01. Install the necessary Python libraries
 First, need to install the necessary libraries to run the script in the Linux environment.
 
-_01. sudo apt update   
-02. sudo apt install python3-pip   
-03. pip install pandas openpyxl_   
+1. sudo apt update
+   _This command updates the list of available packages on your system. It's essential to keep the package list updated before installing new packages to ensure you get the latest versions._
+2. sudo apt install python3-pip
+   _This command installs the python3-pip package, which is the package manager for Python 3. It allows you to easily install and manage Python libraries. _
+3. pip install pandas openpyxl
+   _Finally, this command uses pip to install the specific libraries required by your script:
+      pandas: A popular library for data analysis and manipulation in Python.
+      openpyxl: A library for reading and writing data to Excel (.xlsx) files._
+
+### 02. 

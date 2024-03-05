@@ -9,6 +9,9 @@ The script prompts the user for the following information:
    * Desired output filename (including the .xlsx extension).   
    * Title for the line chart.
 
+### 02. Data Reading   
+The script uses the _Pandas_ library to read the data from the specified CSV file.
+
 ## Steps to run the script?
 
 ### 01. Install the necessary Python libraries

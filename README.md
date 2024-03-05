@@ -3,11 +3,11 @@
 
 ## Script Functionality
 
-### User input   
+### 01. User input   
 The script prompts the user for the following information:   
-   Path to the CSV file.   
-   Desired output filename (including the .xlsx extension).   
-   Title for the line chart.
+   * Path to the CSV file.   
+   * Desired output filename (including the .xlsx extension).   
+   * Title for the line chart.
 
 ## Steps to run the script?
 

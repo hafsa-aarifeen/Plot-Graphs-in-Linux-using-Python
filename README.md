@@ -4,10 +4,10 @@
 ## Script Functionality
 
 #### 01. User input   
-* The script prompts the user for the following information:   
-   ** Path to the CSV file.   
-   ** output filename (including the .xlsx extension).   
-   ** Title for the chart.
+* The script prompts the user for the following information:
+    * Path to the CSV file.
+    * output filename (including the .xlsx extension).
+    * Title for the chart.
 
 #### 02. Data Reading   
 * The script uses the _Pandas_ library to read the data from the specified CSV file.   

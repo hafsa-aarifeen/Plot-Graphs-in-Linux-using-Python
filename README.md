@@ -7,7 +7,7 @@
 * The script asks the user to input the following information:
     * Path to the CSV file.
     * output filename (including the .xlsx extension).
-    * Title for the chart.
+    * Preferred Title for the chart.
 
 #### 02. Data Reading   
 * The script uses the _Pandas_ library to read the data from the specified CSV file.   

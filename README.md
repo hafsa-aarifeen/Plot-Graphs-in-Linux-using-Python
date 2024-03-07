@@ -1,5 +1,6 @@
 # Plot-Graphs-in-Linux-using-Python
-**Plotting charts in an Excel sheet using the openpyxl module in a Linux environment by getting a CSV file as an input. This is done using a Python script. After creating the chart, connect the local machine to the Linux environment using WinSCP and download the required files.**
+Plotting charts in an Excel sheet using the openpyxl module in a Linux environment by getting a CSV file as an input. This is done using a Python script. After creating the chart, connect the local machine to the Linux environment using WinSCP and download the required files.   
+can create any type of chart using the script by mentioning the required chart type in the code.
 
 ## Script Functionality
 

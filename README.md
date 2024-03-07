@@ -4,7 +4,7 @@
 ## Script Functionality
 
 #### 01. User input   
-* The script prompts the user for the following information:
+* The script asks the user to input the following information:
     * Path to the CSV file.
     * output filename (including the .xlsx extension).
     * Title for the chart.
